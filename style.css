@@ -1,0 +1,26 @@
+body{
+    background: url(img/90139584-mesa-de-madera-en-el-fondo-borroso-del-gimnasio-interior-de-fitness-del-club-moderno-con-su-equipo-p.webp);
+    background-size: cover;
+
+}
+
+.container .card{
+    overflow: hidden; 
+    margin: 20px;
+}
+
+h1{
+    background-color: rgb(0, 4, 7);
+    font-weight: bolder;
+    text-align: center;
+    color: #F9FC05;
+    font-family: "cursive";
+    font-style: oblique;
+}h3{
+    color: #fcfcf8;
+
+}
+.button {
+    text-decoration: none;
+
+}
